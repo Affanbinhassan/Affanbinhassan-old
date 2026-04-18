@@ -1,5 +1,6 @@
-# 🦇 Welcome to the Batcave
-![Batcave Header](https://media.giphy.com/media/l396BoOTIFem9xqQU/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/l396BoOTIFem9xqQU/giphy.gif" width="100%" alt="Batcave Header" />
+</p>
 
 ---
 
