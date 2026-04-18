@@ -52,16 +52,14 @@ I prioritize performance and versatility in my equipment. My current setup enabl
 ---
 
 ## 🛠️ THE UTILITY BELT (CORE ASSETS)
-<p align="center"><i>Focusing on building a bulletproof foundation in Python before expanding the arsenal.</i></p>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="60" height="60"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="60" height="60"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="60" height="60"/>
+  <img src="YOUR_HOSTED_IMAGE_LINK_HERE" width="300" />
+  <br>
+  <i>Focusing on building a bulletproof foundation in Python before expanding the arsenal.</i>
 </p>
 
 ---
+
 
 ## 📊 Analytics & Impact
 
