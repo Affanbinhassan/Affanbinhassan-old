@@ -69,4 +69,6 @@ Beyond academics, I actively explore emerging technologies, tools, and industry 
 
 <br><br>
 
+> *"It's not who I am underneath, but what I code that defines me."*
+
 ![Footer](https://capsule-render.vercel.app/render?type=soft&color=000000&height=80&section=footer&text=ROOT_ACCESS_GRANTED_%7C_MASTER_AFFU_2026&fontSize=20&fontColor=666666)
