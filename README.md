@@ -1,5 +1,5 @@
 # 🦇 Welcome to the Batcave
-![Bat-OS Header](https://raw.githubusercontent.com/DenverCoder1/github-readme-stats/master/themes/tokyonight.png)
+![Batcave Header](https://media.giphy.com/media/l396BoOTIFem9xqQU/giphy.gif)
 
 ---
 
