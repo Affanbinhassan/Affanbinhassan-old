@@ -1,6 +1,10 @@
 <p align="center">
   <h1 align="center">🦇 Welcome to the Batcave</h1>
-  <img src="https://media.giphy.com/media/l396BoOTIFem9xqQU/giphy.gif" width="100%" alt="Batcave Entrance" />
+  <a href="https://github.com/Affanbinhassan">
+    <img src="https://media.giphy.com/media/l396BoOTIFem9xqQU/giphy.gif" width="100%" alt="Bat-OS Dashboard" />
+  </a>
+  <br>
+  <p align="center"><b>[ Bat-OS Dashboard ]</b></p>
 </p>
 
 ---
