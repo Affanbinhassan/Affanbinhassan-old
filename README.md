@@ -1,6 +1,5 @@
 # 🦇 Welcome to the Batcave
-![Bat-OS Dashboard](https://raw.githubusercontent.com/DenverCoder1/github-readme-stats/master/themes/tokyonight.png) 
-*(Note: Replace the URL above with your actual header image link once uploaded to GitHub)*
+![Bat-OS Header](https://raw.githubusercontent.com/DenverCoder1/github-readme-stats/master/themes/tokyonight.png)
 
 ---
 
