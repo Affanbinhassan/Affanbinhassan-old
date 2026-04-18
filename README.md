@@ -1,72 +1,74 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnR6dzZ6Znc1eGZ3Znhmd3pmeGZ3emZ4Znc1eGZ3emZ4Znc1eGZ3emZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/6vsk8F0P92i0o/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmc4dmh2N3B6N3B6N3B6N3B6N3B6N3B6N3B6N3B6N3B6N3B6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/6vsk8F0P92i0o/giphy.gif" width="100%" />
 
-  # **AFFAN BIN HASSAN**
-  ### ⚖️ *AI & DATA SCIENCE SPECIALIST IN TRAINING* ⚖️
-  
-  ---
-</div>
-
-## 🕵️‍♂️ THE MISSION BRIEF
-I am a dedicated **AI & Data Science student** from **Hyderabad, India**. Currently navigating the complexities of machine learning and data architecture. I don't just write code; I build systems that bring order to digital chaos.
-
-* **Current Focus:** Mastering the logic of **Python**.
-* **Philosophy:** "It's not who I am underneath, but what I code that defines me."
-
----
-
-## 🛠️ THE UTILITY BELT (CORE ASSETS)
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,vscode,github,git&theme=dark" />
-  <p><i>Focusing on building a bulletproof foundation in Python before expanding the arsenal.</i></p>
+  # **[ BAT-OS // VERSION 2026.04 ]**
+  ### **SYSTEM STATUS: ONLINE | MASTER AFFAN AUTHENTICATED**
 </div>
 
 ---
 
-## ⚙️ BAT-COMPUTER DIAGNOSTICS
-<table border="0" align="center">
+## 🕵️‍♂️ MISSION LOG: IDENTITY
+**SUBJECT:** Affan Bin Hassan  
+**LOCATION:** Hyderabad, Telangana, India  
+**OBJECTIVE:** Artificial Intelligence & Data Science Engineering  
+
+> *"It's not who I am underneath, but what I code that defines me."*
+
+---
+
+## 🛠️ THE UTILITY BELT (PRIMARY ASSET)
+<table border="0">
   <tr>
-    <td>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzh0ZjZ4Znc1eGZ3Znhmd3pmeGZ3emZ4Znc1eGZ3emZ4Znc1eGZ3emZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTfuxZkH7FUM3C/giphy.gif" width="300px" />
+    <td width="50%">
+      <p><b>ACTIVE REPOSITORY:</b> Python 3.x</p>
+      <p><b>STATUS:</b> Leveling Up Skills (Learning Phase)</p>
     </td>
-    <td>
-      <b>Tactical Hardware:</b><br>
-      • HP Pavilion x360 2-in-1<br>
-      • 12th Gen Intel(R) Core i5-1235U<br>
-      • 8GB High-Speed RAM<br>
-      • Windows 11 Home OS
+    <td width="50%" align="center">
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="60px" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🏎️ OFF-DUTY ACTIVITIES
-* **Athletics:** Maintaining peak physical condition through outdoor sports. ⚽
-* **Strategy:** Immersive gaming and strategic simulations. 🎮
-* **Intel:** Constant learning through professional literature. 📚
+## ⚙️ BAT-COMPUTER DIAGNOSTICS
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmY4dmh2N3B6N3B6N3B6N3B6N3B6N3B6N3B6N3B6N3B6N3B6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lGAg78eU1K3Qy0/giphy.gif" width="400px" style="border-radius: 10px;" />
+</div>
+
+* **HARDWARE:** HP Pavilion x360 2-in-1
+* **CPU:** 12th Gen Intel Core i5-1235U
+* **MEMORY:** 8GB RAM
+* **OS:** Windows 11 Home
 
 ---
 
-## 🦇 SHINE THE BAT-SIGNAL
+## 🏎️ OFF-DUTY SIMULATIONS
+* **Physical Excellence:** Maintaining peak form via Outdoor Sports. 🏏
+* **Mental Strategy:** Strategic gaming and technical reading. 🎮📚
+
+---
+
+## 🦇 SHINE THE BAT-SIGNAL (COMMUNICATIONS)
+
 <div align="center">
-  <p>For professional inquiries or strategic collaborations:</p>
+  <p><i>Establish encrypted connection with Master Affan:</i></p>
 
   <a href="https://linkedin.com/in/Affan-Bin-Hassan">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" />
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://instagram.com/affan.bin.hassan">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:affanbinhassan17@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836" />
+    <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=black&height=80&section=footer&text=Justice%20For%20Gotham%20%7C%20Justice%20For%20Data&fontSize=20&fontColor=666666" />
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=100&section=footer&text=GOOD%20EVENING,%20MASTER%20AFFAN%20|%202026&fontSize=25&fontColor=666666" />
 </div>
