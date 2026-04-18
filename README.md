@@ -2,10 +2,24 @@
 
 <p align="center">
   <a href="https://github.com/Affanbinhassan">
-    <img src="https://media.giphy.com/media/l396BoOTIFem9xqQU/giphy.gif" width="100%" alt="Bat-OS Dashboard" />
+    <img src="https://media.giphy.com/media/l396BoOTIFem9xqQU/giphy.gif" width="100%" alt="Batcave Entrance" />
   </a>
 </p>
 
+<!-- 🦇 BATCOMPUTER STATUS PANEL -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🦇_BATCOMPUTER-ONLINE-00FFFF?style=for-the-badge&logoColor=FFD43B&labelColor=000000&color=0D1117" alt="Batcomputer Online"/>
+  <img src="https://img.shields.io/badge/🕐_GOTHAM_TIME-LIVE-1E90FF?style=for-the-badge&logo=clock&logoColor=FFD43B&labelColor=000000&color=0D1117" alt="Gotham Time"/>
+  <br>
+  <img src="https://img.shields.io/badge/👤_OPERATOR-Affan_bin_Hassan-FFD43B?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000&color=0D1117" alt="Operator"/>
+  <img src="https://img.shields.io/badge/📍_LOCATION-Gotham_City-32CD32?style=for-the-badge&logo=radio&logoColor=FFD43B&labelColor=000000&color=0D1117" alt="Location"/>
+  <img src="https://img.shields.io/badge/🎯_STATUS-MISSION_ACTIVE-FF6B6B?style=for-the-badge&logo=target&logoColor=FFD43B&labelColor=000000&color=0D1117" alt="Mission Status"/>
+</p>
+
+<!-- 🦇 BATMAN LOGO ANIMATION -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="40%" alt="Batman Logo"/>
+</p>
 
 ---
 
@@ -18,6 +32,8 @@ I am currently building a solid foundation in **Python programming**, with a foc
 Beyond academics, I actively explore emerging technologies, tools, and industry trends. My goal is to develop into a skilled developer and contribute to meaningful, impactful projects in the future.
 
 <p align="center">
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="60%" alt="Batman Analyzing Data"/>
+  <br>
   <i>"It's not who I am underneath, but what I code that defines me."</i>
 </p>
 
@@ -30,6 +46,10 @@ Beyond academics, I actively explore emerging technologies, tools, and industry 
 * **Exploring Data Science Foundations:** Introducing myself to key libraries (NumPy, Pandas) for data manipulation.
 * **System Integrity:** Standardizing my workflow with version control (Git/GitHub).
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" width="70%" alt="Batman Training Simulation"/>
+</p>
+
 ---
 
 ## ⚙️ My Bat-Computer Specs (Hardware)
@@ -40,6 +60,10 @@ I prioritize performance and versatility in my equipment. My current setup enabl
 * **Memory:** 8GB RAM 🧠
 * **OS:** Windows 11 Home
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6ZsYq8L4K3K8Q3XG/giphy.gif" width="80%" alt="Batcomputer System Diagnostics"/>
+</p>
+
 ---
 
 ## 🌑 Off-Duty Pursuits
@@ -48,6 +72,10 @@ I prioritize performance and versatility in my equipment. My current setup enabl
 * **Strengthening problem-solving and logical thinking skills**.
 * **Studying advancements in Artificial Intelligence and Data Science**.
 * **Staying updated with modern tech trends and innovations**.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="60%" alt="Gotham Night Surveillance"/>
+</p>
 
 ---
 
@@ -69,6 +97,10 @@ I prioritize performance and versatility in my equipment. My current setup enabl
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60"/>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlPtbGpcnqa0fXG/giphy.gif" width="70%" alt="Batman Utility Belt Gadgets"/>
+</p>
+
 --- 
 
 ## 📊 Analytics & Impact
@@ -83,6 +115,20 @@ I prioritize performance and versatility in my equipment. My current setup enabl
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKUM3IgJBX2as9O/giphy.gif" width="50%" alt="Batcomputer Analytics"/>
+</p>
+
+---
+
+## 🦇 BAT-SIGNAL ACTIVE: Live Status
+
+<p align="center">
+  <img src="https://profile-counter.gl/badge/Affanbinhassan/count.svg" alt="Visitor Count"/>
+  <br><br>
+  <img src="https://media.giphy.com/media/l3975wAX6suwMzXdO/giphy.gif" width="40%" alt="Bat-Signal Activated"/>
+</p>
 
 ---
 
@@ -103,4 +149,18 @@ I prioritize performance and versatility in my equipment. My current setup enabl
   <a href="mailto:affanbinhassan17@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="70%" alt="Gotham City Night"/>
+</p>
+
+<!-- 🦇 FOOTER -->
+<p align="center">
+  <sub><i>🦇 Systems monitored by Batcomputer v2.4.1 | Gotham Standard Time | All protocols active</i></sub>
+</p>
+
+<!-- 🦇 FINAL BATCOMPUTER TERMINAL -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l3973FjNukF8U591C/giphy.gif" width="100%" alt="Batcomputer Terminal Interface"/>
 </p>
