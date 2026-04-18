@@ -61,9 +61,17 @@ I prioritize performance and versatility in my equipment. My current setup enabl
 ---
 
 ## 📊 Analytics & Impact
-![Affan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Affanbinhassan&show_icons=true&theme=tokyonight&bg_color=000000&title_color=FFD43B&text_color=ffffff&icon_color=FFD43B&border_color=333333)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Affanbinhassan&layout=compact&theme=tokyonight&bg_color=000000&title_color=FFD43B&text_color=ffffff&border_color=333333)
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Affanbinhassan&show_icons=true&theme=tokyonight&bg_color=000000&title_color=FFD43B&text_color=ffffff&icon_color=FFD43B&border_color=333333" alt="Affan's GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Affanbinhassan&layout=compact&theme=tokyonight&bg_color=000000&title_color=FFD43B&text_color=ffffff&border_color=333333" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
