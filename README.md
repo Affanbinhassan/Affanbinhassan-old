@@ -372,61 +372,45 @@
             animation: pulse 1.5s infinite;
         }
 
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.6; }
+        }
+
         @media (max-width: 768px) {
-            .system-time {
-                font-size: 36px;
-            }
-            .dashboard {
-                grid-template-columns: 1fr;
-            }
-            .profile-name {
-                font-size: 28px;
-            }
+            .system-time { font-size: 36px; }
+            .dashboard { grid-template-columns: 1fr; }
+            .profile-name { font-size: 28px; }
         }
 
-        /* Scrollbar styling */
-        ::-webkit-scrollbar {
-            width: 10px;
-        }
-
-        ::-webkit-scrollbar-track {
-            background: #000;
-        }
-
-        ::-webkit-scrollbar-thumb {
-            background: #00ffff;
-            border-radius: 5px;
-        }
-
-        ::-webkit-scrollbar-thumb:hover {
-            background: #ffd43b;
-        }
+        ::-webkit-scrollbar { width: 10px; }
+        ::-webkit-scrollbar-track { background: #000; }
+        ::-webkit-scrollbar-thumb { background: #00ffff; border-radius: 5px; }
+        ::-webkit-scrollbar-thumb:hover { background: #ffd43b; }
     </style>
 </head>
 <body>
     <div class="grid-overlay"></div>
-    
     <div class="container">
-        <!-- Header -->
+        
+        <!-- HEADER -->
         <div class="header">
             <svg class="bat-logo" viewBox="0 0 100 100" fill="#00ffff" xmlns="http://www.w3.org/2000/svg">
                 <path d="M50 10 C30 20, 20 30, 15 35 C10 30, 5 25, 2 28 C5 35, 12 40, 18 45 C12 52, 8 60, 5 65 C15 62, 25 55, 35 48 C40 55, 45 62, 50 65 C55 62, 60 55, 65 48 C75 55, 85 62, 95 65 C92 60, 88 52, 82 45 C88 40, 95 35, 98 28 C95 25, 90 30, 85 35 C80 30, 70 20, 50 10 Z"/>
             </svg>
-            
             <div class="greeting">⚡ GOOD EVENING, SIR</div>
             <div class="system-time" id="clock">00:00:00</div>
             <div class="system-date" id="date">Loading...</div>
             <div style="color: #ffd43b; margin-top: 15px; font-size: 16px;">🦇 BATCOMPUTER SYSTEMS ONLINE</div>
         </div>
 
-        <!-- Profile Section -->
+        <!-- PROFILE SECTION -->
         <div class="profile-section">
             <div class="profile-name">🦇 AFFAN BIN HASSAN</div>
             <div class="profile-title">AI & Data Science Developer | Engineering Student</div>
             <div style="color: #00ffff; margin: 20px 0; font-style: italic; font-size: 18px;">
                 "It's not who I am underneath, but what I code that defines me."
             </div>
-            
             <div class="skills-container">
                 <span class="skill-badge">🐍 Python</span>
                 <span class="skill-badge">📊 Data Science</span>
@@ -436,75 +420,43 @@
             </div>
         </div>
 
-        <!-- Dashboard -->
+        <!-- DASHBOARD -->
         <div class="dashboard">
-            <!-- System Status -->
+            
+            <!-- System Status Widget -->
             <div class="widget">
                 <div class="widget-title">⚙️ SYSTEM STATUS</div>
                 <div class="widget-content">
-                    <div class="stat-row">
-                        <span class="stat-label">MACHINE:</span>
-                        <span class="stat-value">HP Pavilion x360</span>
-                    </div>
-                    <div class="stat-row">
-                        <span class="stat-label">PROCESSOR:</span>
-                        <span class="stat-value">Intel i5-1235U</span>
-                    </div>
-                    <div class="stat-row">
-                        <span class="stat-label">MEMORY:</span>
-                        <span class="stat-value">8GB RAM</span>
-                    </div>
-                    <div class="stat-row">
-                        <span class="stat-label">OS:</span>
-                        <span class="stat-value">Windows 11</span>
-                    </div>
-                    <div class="stat-row">
-                        <span class="stat-label">STATUS:</span>
-                        <span class="stat-value" style="color: #32cd32;">● ONLINE</span>
-                    </div>
-                    <div class="stat-row">
-                        <span class="stat-label">UPTIME:</span>
-                        <span class="stat-value" id="uptime">Calculating...</span>
-                    </div>
+                    <div class="stat-row"><span class="stat-label">MACHINE:</span><span class="stat-value">HP Pavilion x360</span></div>
+                    <div class="stat-row"><span class="stat-label">PROCESSOR:</span><span class="stat-value">Intel i5-1235U</span></div>
+                    <div class="stat-row"><span class="stat-label">MEMORY:</span><span class="stat-value">8GB RAM</span></div>
+                    <div class="stat-row"><span class="stat-label">OS:</span><span class="stat-value">Windows 11</span></div>
+                    <div class="stat-row"><span class="stat-label">STATUS:</span><span class="stat-value" style="color:#32cd32">● ONLINE</span></div>
+                    <div class="stat-row"><span class="stat-label">UPTIME:</span><span class="stat-value" id="uptime">00:00:00</span></div>
                 </div>
             </div>
 
-            <!-- Current Missions -->
+            <!-- Missions Widget -->
             <div class="widget">
                 <div class="widget-title">🚀 ACTIVE MISSIONS</div>
                 <div class="widget-content">
-                    <div class="mission-status">
-                        <div class="status-indicator"></div>
-                        <span>Mastering Python Programming</span>
-                    </div>
-                    <div class="mission-status">
-                        <div class="status-indicator"></div>
-                        <span>Data Science Foundations</span>
-                    </div>
-                    <div class="mission-status">
-                        <div class="status-indicator"></div>
-                        <span>System Integrity (Git/GitHub)</span>
-                    </div>
-                    <div class="mission-status">
-                        <div class="status-indicator"></div>
-                        <span>AI/ML Model Development</span>
-                    </div>
-                    <div class="mission-status">
-                        <div class="status-indicator"></div>
-                        <span>Building Portfolio Projects</span>
-                    </div>
+                    <div class="mission-status"><div class="status-indicator"></div><span>Mastering Python Programming</span></div>
+                    <div class="mission-status"><div class="status-indicator"></div><span>Data Science Foundations</span></div>
+                    <div class="mission-status"><div class="status-indicator"></div><span>System Integrity (Git/GitHub)</span></div>
+                    <div class="mission-status"><div class="status-indicator"></div><span>AI/ML Model Development</span></div>
+                    <div class="mission-status"><div class="status-indicator"></div><span>Building Portfolio Projects</span></div>
                 </div>
             </div>
 
-            <!-- GitHub Repositories -->
+            <!-- GitHub Repos Widget -->
             <div class="widget" style="grid-column: span 2;">
                 <div class="widget-title">💻 GITHUB REPOSITORIES</div>
                 <div id="repos-container" class="widget-content">
-                    <div class="loading">Loading repositories...</div>
+                    <div class="loading">🔄 Connecting to GitHub...</div>
                 </div>
             </div>
 
-            <!-- Quick Links -->
+            <!-- Quick Links Widget -->
             <div class="widget">
                 <div class="widget-title">🔗 QUICK ACCESS</div>
                 <div class="quick-links">
@@ -513,108 +465,85 @@
                     <a href="https://instagram.com/affan.bin.hassan" class="quick-link" target="_blank">Instagram</a>
                     <a href="mailto:affanbinhassan17@gmail.com" class="quick-link">Email</a>
                 </div>
-                <div style="margin-top: 25px; padding-top: 20px; border-top: 1px solid #00ffff;">
-                    <div class="stat-row">
-                        <span class="stat-label">FOLLOWERS:</span>
-                        <span class="stat-value" id="followers">-</span>
-                    </div>
-                    <div class="stat-row">
-                        <span class="stat-label">FOLLOWING:</span>
-                        <span class="stat-value" id="following">-</span>
-                    </div>
-                    <div class="stat-row">
-                        <span class="stat-label">PUBLIC REPOS:</span>
-                        <span class="stat-value" id="public-repos">-</span>
-                    </div>
+                <div style="margin-top:25px; padding-top:20px; border-top:1px solid #00ffff">
+                    <div class="stat-row"><span class="stat-label">FOLLOWERS:</span><span class="stat-value" id="followers">--</span></div>
+                    <div class="stat-row"><span class="stat-label">FOLLOWING:</span><span class="stat-value" id="following">--</span></div>
+                    <div class="stat-row"><span class="stat-label">PUBLIC REPOS:</span><span class="stat-value" id="public-repos">--</span></div>
                 </div>
             </div>
 
-            <!-- Terminal -->
+            <!-- Terminal Widget -->
             <div class="widget" style="grid-column: span 2;">
                 <div class="widget-title">💻 BATCOMPUTER TERMINAL</div>
                 <div class="terminal" id="terminal">
                     <div class="terminal-line"><span class="terminal-prompt">BATCOMPUTER></span> <span class="terminal-text">Initializing secure connection...</span></div>
                 </div>
             </div>
+
         </div>
 
-        <!-- Footer -->
+        <!-- FOOTER -->
         <footer>
             <p>🦇 BATCOMPUTER v3.0 | SYSTEMS OPERATIONAL | <span id="year">2026</span></p>
-            <p style="margin-top: 10px;">Monitored by Alfred | Developed by Affan bin Hassan</p>
-            <p style="margin-top: 5px; font-size: 12px; opacity: 0.8;">"I won't kill you, but I don't have to save you" - Batman Begins</p>
+            <p style="margin-top:10px">Monitored by Alfred | Developed by Affan bin Hassan</p>
+            <p style="margin-top:5px; font-size:12px; opacity:0.8">"I won't kill you, but I don't have to save you" - Batman Begins</p>
         </footer>
+
     </div>
 
     <script>
-        // Real-time Clock with timezone
+        // === REAL-TIME CLOCK ===
         function updateClock() {
             const now = new Date();
-            const timeString = now.toLocaleTimeString('en-US', { 
-                hour12: false,
-                hour: '2-digit',
-                minute: '2-digit',
-                second: '2-digit'
-            });
-            const dateString = now.toLocaleDateString('en-US', {
-                weekday: 'long',
-                year: 'numeric',
-                month: 'long',
-                day: 'numeric'
-            });
-            
-            document.getElementById('clock').textContent = timeString;
-            document.getElementById('date').textContent = dateString;
+            document.getElementById('clock').textContent = now.toLocaleTimeString('en-US', {hour12:false, hour:'2-digit', minute:'2-digit', second:'2-digit'});
+            document.getElementById('date').textContent = now.toLocaleDateString('en-US', {weekday:'long', year:'numeric', month:'long', day:'numeric'});
             document.getElementById('year').textContent = now.getFullYear();
         }
-
         setInterval(updateClock, 1000);
         updateClock();
 
-        // Uptime Calculator
+        // === UPTIME COUNTER ===
         let startTime = Date.now();
         function updateUptime() {
             const elapsed = Math.floor((Date.now() - startTime) / 1000);
-            const hours = Math.floor(elapsed / 3600);
-            const minutes = Math.floor((elapsed % 3600) / 60);
-            const seconds = elapsed % 60;
-            document.getElementById('uptime').textContent = 
-                `${hours.toString().padStart(2, '0')}:${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+            const h = Math.floor(elapsed/3600).toString().padStart(2,'0');
+            const m = Math.floor((elapsed%3600)/60).toString().padStart(2,'0');
+            const s = (elapsed%60).toString().padStart(2,'0');
+            document.getElementById('uptime').textContent = `${h}:${m}:${s}`;
         }
         setInterval(updateUptime, 1000);
 
-        // Fetch GitHub Data
+        // === GITHUB API FETCH ===
         async function fetchGitHubData() {
             try {
-                const response = await fetch('https://api.github.com/users/Affanbinhassan');
-                const data = await response.json();
+                const userRes = await fetch('https://api.github.com/users/Affanbinhassan');
+                const userData = await userRes.json();
                 
-                document.getElementById('followers').textContent = data.followers;
-                document.getElementById('following').textContent = data.following;
-                document.getElementById('public-repos').textContent = data.public_repos;
-                
-                // Fetch repositories
-                const reposResponse = await fetch('https://api.github.com/users/Affanbinhassan/repos?sort=updated&per_page=6');
-                const repos = await reposResponse.json();
-                
+                document.getElementById('followers').textContent = userData.followers || 0;
+                document.getElementById('following').textContent = userData.following || 0;
+                document.getElementById('public-repos').textContent = userData.public_repos || 0;
+
+                const reposRes = await fetch('https://api.github.com/users/Affanbinhassan/repos?sort=updated&per_page=6');
+                const repos = await reposRes.json();
                 displayRepos(repos);
-            } catch (error) {
-                console.error('Error fetching GitHub data:', error);
-                document.getElementById('repos-container').innerHTML = 
-                    '<div style="color: #ff6b6b;">Unable to load GitHub data. Please check your connection.</div>';
+            } catch(err) {
+                console.error('GitHub API Error:', err);
+                document.getElementById('repos-container').innerHTML = '<div style="color:#ff6b6b">⚠ Could not load GitHub data. Check internet connection.</div>';
             }
         }
 
         function displayRepos(repos) {
             const container = document.getElementById('repos-container');
             container.innerHTML = '';
-            
+            if(!repos || repos.length === 0) {
+                container.innerHTML = '<div style="color:#ffd43b">No public repositories found.</div>';
+                return;
+            }
             repos.forEach(repo => {
-                const repoCard = document.createElement('div');
-                repoCard.className = 'repo-card';
-                repoCard.onclick = () => window.open(repo.html_url, '_blank');
-                
-                repoCard.innerHTML = `
+                const card = document.createElement('div');
+                card.className = 'repo-card';
+                card.onclick = () => window.open(repo.html_url, '_blank');
+                card.innerHTML = `
                     <div class="repo-name">📁 ${repo.name}</div>
                     <div class="repo-desc">${repo.description || 'No description'}</div>
                     <div class="repo-stats">
@@ -623,90 +552,73 @@
                         <span>🔧 ${repo.language || 'Unknown'}</span>
                     </div>
                 `;
-                
-                container.appendChild(repoCard);
+                container.appendChild(card);
             });
         }
 
-        // Terminal Simulation
+        // === TERMINAL ANIMATION ===
         const terminalLines = [
-            "Establishing secure connection to Wayne Enterprises...",
-            "Identity verified: AFFAN BIN HASSAN",
-            "Loading Bat-OS v3.0...",
-            "Initializing Python development environment...",
-            "Data Science modules: ONLINE",
-            "AI/ML frameworks: LOADED",
-            "Git repository sync: COMPLETE",
-            "GitHub API: CONNECTED",
-            "All systems operational. Welcome back, sir."
+            "🔐 Establishing secure connection...",
+            "✅ Identity verified: AFFAN BIN HASSAN",
+            "🖥️ Loading Bat-OS v3.0...",
+            "🐍 Python environment: READY",
+            "📊 Data Science modules: ONLINE",
+            "🤖 AI/ML frameworks: LOADED",
+            "🔧 Git sync: COMPLETE",
+            "🌐 GitHub API: CONNECTED",
+            "✨ All systems operational. Welcome back, sir."
         ];
 
-        let lineIndex = 0;
+        let lineIdx = 0;
         function addTerminalLine() {
-            if (lineIndex < terminalLines.length) {
-                const terminal = document.getElementById('terminal');
+            if(lineIdx < terminalLines.length) {
+                const term = document.getElementById('terminal');
                 const line = document.createElement('div');
                 line.className = 'terminal-line';
-                line.innerHTML = `<span class="terminal-prompt">BATCOMPUTER></span> <span class="terminal-text">${terminalLines[lineIndex]}</span>`;
-                terminal.appendChild(line);
-                terminal.scrollTop = terminal.scrollHeight;
-                lineIndex++;
-                setTimeout(addTerminalLine, 600);
+                line.innerHTML = `<span class="terminal-prompt">BATCOMPUTER></span> <span class="terminal-text">${terminalLines[lineIdx]}</span>`;
+                term.appendChild(line);
+                term.scrollTop = term.scrollHeight;
+                lineIdx++;
+                setTimeout(addTerminalLine, 500);
             }
         }
+        setTimeout(addTerminalLine, 800);
 
-        setTimeout(addTerminalLine, 1000);
-
-        // Random terminal updates
-        const randomMessages = [
-            "Scanning network for vulnerabilities...",
-            "Analyzing code patterns...",
-            "Optimizing system performance...",
-            "Background processes: NORMAL",
-            "Security protocols: ACTIVE",
-            "Memory usage: OPTIMAL",
-            "CPU temperature: NORMAL",
-            "Encrypting data streams...",
-            "Backup systems: STANDBY",
-            "Monitoring GitHub activity..."
+        // Random terminal messages
+        const randomMsgs = [
+            "🔍 Scanning network...", "📈 Analyzing patterns...", 
+            "⚡ Optimizing performance...", "🛡️ Security: ACTIVE",
+            "💾 Memory: OPTIMAL", "🌡️ CPU: NORMAL",
+            "🔐 Encrypting data...", "📡 Backup: STANDBY"
         ];
-
         setInterval(() => {
-            const terminal = document.getElementById('terminal');
-            const randomMsg = randomMessages[Math.floor(Math.random() * randomMessages.length)];
+            const term = document.getElementById('terminal');
+            const msg = randomMsgs[Math.floor(Math.random() * randomMsgs.length)];
             const line = document.createElement('div');
             line.className = 'terminal-line';
-            line.innerHTML = `<span class="terminal-prompt">BATCOMPUTER></span> <span class="terminal-text">${randomMsg}</span>`;
-            terminal.appendChild(line);
-            terminal.scrollTop = terminal.scrollHeight;
-            
-            // Keep only last 15 lines
-            while (terminal.children.length > 15) {
-                terminal.removeChild(terminal.firstChild);
-            }
-        }, 8000);
+            line.innerHTML = `<span class="terminal-prompt">BATCOMPUTER></span> <span class="terminal-text">${msg}</span>`;
+            term.appendChild(line);
+            term.scrollTop = term.scrollHeight;
+            while(term.children.length > 15) term.removeChild(term.firstChild);
+        }, 10000);
 
-        // Initialize
+        // === INITIALIZE ===
         window.onload = function() {
             fetchGitHubData();
         };
 
-        // Add keyboard shortcuts
+        // Keyboard shortcut: F5 to refresh terminal
         document.addEventListener('keydown', (e) => {
-            if (e.key === 'F5' || (e.ctrlKey && e.key === 'r')) {
+            if(e.key === 'F5') {
                 e.preventDefault();
-                addTerminalLineCustom("System refresh initiated...");
+                const term = document.getElementById('terminal');
+                const line = document.createElement('div');
+                line.className = 'terminal-line';
+                line.innerHTML = `<span class="terminal-prompt">BATCOMPUTER></span> <span class="terminal-text">🔄 System refresh initiated...</span>`;
+                term.appendChild(line);
+                term.scrollTop = term.scrollHeight;
             }
         });
-
-        function addTerminalLineCustom(text) {
-            const terminal = document.getElementById('terminal');
-            const line = document.createElement('div');
-            line.className = 'terminal-line';
-            line.innerHTML = `<span class="terminal-prompt">BATCOMPUTER></span> <span class="terminal-text">${text}</span>`;
-            terminal.appendChild(line);
-            terminal.scrollTop = terminal.scrollHeight;
-        }
     </script>
 </body>
 </html>
