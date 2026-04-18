@@ -1,92 +1,84 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/l396BoOTIFem9xqQU/giphy.gif" width="100%" alt="Batcave Header" />
 
-  <br>
-
-  # **[ BAT-OS // AUTH_USER: MASTER AFFU ]**
-  ### **LOCATION: HYDERABAD, IN // MISSION: AI & DATA SCIENCE**
-  
-  ---
-
-  <br>
-  <blockquote>
-    <b>"It's not who I am underneath, but what I code that defines me."</b>
-  </blockquote>
-  <br>
-
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/CORE-PYTHON-000000?style=for-the-badge&logo=python&logoColor=FFD43B" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/ENV-VS_CODE-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/SYNC-GIT-000000?style=for-the-badge&logo=git&logoColor=F05032" />
-      </td>
-    </tr>
-  </table>
-</div>
+# 🦇 Welcome to the Batcave
+<img src="https://i.ibb.co/3yk5Zt3/Affan-Bat-OS-Preview.png" width="100%" alt="Batcave Entrance" />
 
 ---
 
-## 🖥️ SYSTEM_CONSOLE [HARDWARE & LOGS]
-<table border="0" align="center" width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      ### **TACTICAL_HARDWARE**
-      * **DEVICE:** HP Pavilion x360 2-in-1
-      * **CPU:** 12th Gen Intel Core i5-1235U
-      * **RAM:** 8GB High-Speed DDR4
-      * **OS:** Windows 11 Home
-      <br>
-      ### **CURRENT_OBJECTIVES**
-      * `[RUN]` Dominating Python Logic & OOP
-      * `[RUN]` Implementing Data Science Libraries
-      * `[WAIT]` Advanced AI Model Deployment
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmY4dmh2N3B6N3B6N3B6N3B6N3B6N3B6N3B6N3B6N3B6N3B6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lGAg78eU1K3Qy0/giphy.gif" width="100%" style="border-radius: 10px;" />
-    </td>
-  </tr>
-</table>
+## 👤 ABOUT ME / MY DETAILS
 
----
-
-## 🏎️ OFF-DUTY_PROCESSES
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center"> 🎮 <b>STRATEGIC GAMING</b> // IMMERSIVE SIMULATIONS </td>
-    </tr>
-    <tr>
-      <td align="center"> 🏏 <b>OUTDOOR SPORTS</b> // PEAK PHYSICAL FORM </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🦇 THE BAT-SIGNAL [CONTACT]
-<div align="center">
-  <p><i>Establish encrypted connection:</i></p>
-
-  <a href="https://linkedin.com/in/Affan-Bin-Hassan">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/affan.bin.hassan">
-    <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:affanbinhassan17@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+**Location:** Hyderabad, Telangana, India  
+**Subject:** Affan Bin Hassan  
+**Objective:** Artificial Intelligence & Data Science Engineering
 
 <br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=black&height=80&section=footer&text=ROOT_ACCESS_GRANTED_%7C_MASTER_AFFU_2026&fontSize=20&fontColor=666666" />
+> *"It's not who I am underneath, but what I code that defines me."*
+
+### **Emerging AI & Data Science Engineer**
+
+---
+
+## 🛠️ THE UTILITY BELT (CORE ASSETS)
+
+*Focusing on building a bulletproof foundation in Python before expanding the arsenal.*
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD43B" /> <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" /> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" />
+
+---
+
+## ⚙️ Bat-Computer Specs (Hardware)
+
+* **Machine:** HP Pavilion x360 2-in-1 Laptop 💻
+* **Processor:** 12th Gen Intel(R) Core(TM) i5-1235U (12 CPUs)
+* **Memory:** 8GB RAM 🧠
+* **OS:** Windows 11 Home
+
+---
+
+## 🚀 Current Missions & Training
+
+*I am focused on upgrading my skills to meet the challenges of the AI frontier. This is what's on my active monitor:*
+
+* **Dominating Python:** Deepening understanding of advanced data structures, OOP, and algorithms.
+* **Exploring Data Science Foundations:** Introducing myself to key libraries (NumPy, Pandas) for data manipulation.
+* **System Integrity:** Standardizing my workflow with version control (Git/GitHub).
+
+---
+
+## 🏎️ Off-Duty (Hobbies)
+
+* **Physical Excellence:** Maintaining peak form via Outdoor Sports (🏏⚽).
+* **Mental Strategy:** Immersive simulations and strategic gaming.
+
+---
+
+## 📊 Analytics & Impact
+
+<img src="https://github-readme-stats.vercel.app/api?username=Affanbinhassan&show_icons=true&theme=tokyonight&bg_color=000000&title_color=FFD43B&text_color=ffffff&icon_color=FFD43B&border_color=333333" alt="Affan's GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Affanbinhassan&layout=compact&theme=tokyonight&bg_color=000000&title_color=FFD43B&text_color=ffffff&border_color=333333" alt="Top Languages" />
+
+---
+
+## 🤝 Call the Bat-Signal
+
+*Professional and focused collaboration. Contact me through the formal channels below:*
+
+<a href="https://linkedin.com/in/Affan-Bin-Hassan">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/affan.bin.hassan">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:affanbinhassan17@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=80&section=footer&text=ROOT_ACCESS_GRANTED_%7C_MASTER_AFFU_2026&fontSize=20&fontColor=666666" />
+
 </div>
