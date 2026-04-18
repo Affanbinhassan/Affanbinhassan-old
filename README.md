@@ -52,11 +52,13 @@ I prioritize performance and versatility in my equipment. My current setup enabl
 ---
 
 ## 🛠️ THE UTILITY BELT (CORE ASSETS)
-*Focusing on building a bulletproof foundation in Python before expanding the arsenal.*
-
-<br>
-
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD43B" /> <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" /> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="55" height="55"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="55" height="55"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="55" height="55"/>
+</p>
+<p align="center"><i>Focusing on building a bulletproof foundation in Python before expanding the arsenal.</i></p>
 
 ---
 
@@ -78,6 +80,7 @@ I prioritize performance and versatility in my equipment. My current setup enabl
 ## 🤝 Call the Bat-Signal
 *Professional and focused collaboration. Contact me through the formal channels below:*
 
+<p align="center">
 <a href="https://linkedin.com/in/Affan-Bin-Hassan">
   <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -87,7 +90,10 @@ I prioritize performance and versatility in my equipment. My current setup enabl
 <a href="mailto:affanbinhassan17@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+</p>
 
 <br><br>
 
-![Footer](https://capsule-render.vercel.app/render?type=soft&color=000000&height=80&section=footer&text=ROOT_ACCESS_GRANTED_%7C_MASTER_AFFU_2026&fontSize=20&fontColor=666666)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=80&section=footer&text=ROOT_ACCESS_GRANTED_%7C_MASTER_AFFU_2026&fontSize=20&fontColor=666666" />
+</p>
